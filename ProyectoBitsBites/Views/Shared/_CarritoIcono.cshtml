@@ -1,0 +1,14 @@
+﻿@{
+    int cantidadProductos = ViewBag.CantidadProductosCarrito ?? 0;
+    string imagenCarrito = ViewBag.ImagenCarrito ?? "";
+}
+
+<div class="cart-icon">
+    <a href="@Url.Action("MostrarCarrito", "Carrito")">
+        <img src="@imagenCarrito" width="51" height="51" alt="Carrito" />
+    </a>
+    @if (cantidadProductos > 0)
+    {
+        <span class="cart-count">@cantidadProductos</span>
+    }
+</div>

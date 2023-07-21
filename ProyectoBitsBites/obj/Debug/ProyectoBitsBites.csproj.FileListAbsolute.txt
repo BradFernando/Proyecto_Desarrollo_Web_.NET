@@ -1,0 +1,246 @@
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.dll.config
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.pdb
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.exe
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.exe.config
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.rsp
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.exe
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.exe.config
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.rsp
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.AppContext.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Console.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.Compression.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Net.Http.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.ValueTuple.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.exe
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.exe.config
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.rsp
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\VBCSCompiler.exe
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.SqlServer.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Helpers.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Mvc.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Razor.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Razor.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.SqlServer.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Razor.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Razor.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Helpers.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Mvc.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Razor.resources.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.resources.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.AssemblyReference.cache
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.CoreCompileInputs.cache
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.CopyComplete
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.dll
+C:\Users\jhonf\source\repos\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.pdb
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.dll.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.pdb
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.rsp
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.rsp
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.AppContext.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Console.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.Compression.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.FileSystem.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Net.Http.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Net.Sockets.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.ValueTuple.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XPath.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.rsp
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\VBCSCompiler.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.SqlServer.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.Web.Infrastructure.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Helpers.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Mvc.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Razor.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Deployment.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Razor.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.SqlServer.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Razor.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Deployment.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Razor.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Helpers.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Mvc.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Razor.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Helpers.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Mvc.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.AssemblyReference.cache
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.CoreCompileInputs.cache
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.CopyComplete
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.pdb
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.dll.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\ProyectoBitsBites.pdb
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csc.rsp
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\csi.rsp
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.AppContext.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Console.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.Compression.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.FileSystem.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Net.Http.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Net.Sockets.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.ValueTuple.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XPath.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\vbc.rsp
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\VBCSCompiler.exe
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.SqlServer.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.Web.Infrastructure.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Helpers.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Mvc.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Razor.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Deployment.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Razor.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\EntityFramework.SqlServer.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Razor.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Deployment.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Webpages.Razor.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Helpers.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\System.Web.Mvc.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Razor.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Helpers.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\bin\es\System.Web.Mvc.resources.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.AssemblyReference.cache
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.CoreCompileInputs.cache
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.csproj.CopyComplete
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.dll
+D:\Trabajos proyectos\ProyectoBitsBites1\ProyectoBitsBites - copia\ProyectoBitsBites\ProyectoBitsBites\obj\Debug\ProyectoBitsBites.pdb

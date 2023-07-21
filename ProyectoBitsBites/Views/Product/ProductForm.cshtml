@@ -1,0 +1,78 @@
+@model ProyectoBitsBites.Models.TableViewModel.ProductoTableViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+    <div>
+        <form action="@Url.Content("~/Product/AddProduct")" method="post" enctype="multipart/form-data">
+            <fieldset class="clearfix">
+                <div>
+                    <label>
+                        <span class="fa fa-envelope"></span>
+                        <input type="hidden" name="ID" id="ID" value="@Model.ID" Placeholder="ID">
+                    </label>
+                    <label>
+                        <span class="fa fa-envelope"></span>
+                        <input type="text" name="Nombre" id="nombre" value="@Model.Nombre" Placeholder="Nombre">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="text" name="Descripcion" id="descripcion" value="@Model.Descripcion" Placeholder="Descripción">
+                    </label>
+                    <label>
+                        <span class="fa fa-envelope"></span>
+                        <input name="Precio" id="precio" value="@Model.Precio" Placeholder="Precio">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="file" name="imagen" id="imagen" Placeholder="Imagen" accept="image/*" >
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <select name="id_categoria" id="categoria">
+                            <option value="">Categoría</option>
+                            <option value="1" @(@Model.id_categoria == 1 ? "selected" : "")>Bebidas</option>
+                            <option value="2" @(@Model.id_categoria == 2 ? "selected" : "")>Snacks</option>
+                            <option value="3" @(@Model.id_categoria == 3 ? "selected" : "")>Plato Fuerte</option>
+                            <option value="4" @(@Model.id_categoria == 4 ? "selected" : "")>Hamburguesas</option>
+                            <option value="5" @(@Model.id_categoria == 5 ? "selected" : "")>Papas</option>
+                            <option value="6" @(@Model.id_categoria == 6 ? "selected" : "")>Sopas y Fideos</option>
+                        </select>
+                    </label>
+                </div>
+                <div class="col-md-6">
+                    <div class="preview-container">
+                        <img id="previewImagen" src=@((Model.Imagen != null) ? ("data:image/png;base64," + @Convert.ToBase64String(Model.Imagen)) : "#") alt="Vista previa de la imagen" style="max-width: 300px; max-height: 300px;" />
+                    </div>
+                </div>
+                <div>
+                    <span style="width:50%; text-align:right;  display: inline-block;">
+                        <input type="submit" value="Guardar">
+                    </span>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</body>
+<script>
+    $(function () {
+        $('#imagen').change(function () {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#previewImagen').attr('src', e.target.result);
+                $('#previewImagen').show();
+            };
+            reader.readAsDataURL(this.files[0]);
+        });
+    });
+</script>
+</html>

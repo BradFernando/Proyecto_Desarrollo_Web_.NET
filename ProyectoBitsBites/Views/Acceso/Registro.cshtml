@@ -1,0 +1,54 @@
+@model ProyectoBitsBites.Models.TableViewModel.FormRegistro
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registro de un nuevo usuario</title>
+</head>
+<body>
+    <div>
+        <form action="@Url.Content("~/Acceso/Registro")" method="post">
+            <fieldset class="clearfix">
+                <div>
+                    <label>
+                        <span class="fa fa-envelope"></span>
+                        <input type="text" name="Nombre" id="nombre" value="@Model.Nombre" Placeholder="Nombre">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="text" name="Apellido" id="Apellido" value="@Model.Apellido" Placeholder="Apellido">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="text" name="Direccion" id="Direccion" value="@Model.Direccion" Placeholder="Dirección">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="text" name="Telefono" id="Telefono" value="@Model.Telefono" Placeholder="Telefono">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="email" name="Correo" id="Correo" value="@Model.Correo" Placeholder="Correo">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="text" name="Usuario" id="Usuario" value="@Model.Usuario" Placeholder="Usuario">
+                    </label>
+                    <label>
+                        <span class="fa fa-lock"></span>
+                        <input type="password" name="Contrasenia" id="Contrasenia" value="@Model.Contrasenia" Placeholder="Contraseña">
+                    </label>
+                </div>
+                <div>
+                    <span style="width:50%; text-align:right;  display: inline-block;">
+                        <input type="submit" value="Guardar">
+                    </span>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>

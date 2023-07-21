@@ -1,0 +1,62 @@
+﻿@model ProyectoBitsBites.Models.TableViewModel.MsgModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="~/Content/estilosUsuario.css" rel="stylesheet" />
+    <title>Login</title>
+</head>
+<body>
+    <div class="main">
+        <div class="container">
+            <center>
+                <div class="middle">
+                    <div id="login">
+                        <form action="@Url.Content("~/Acceso/Login")" method="post">
+                            <fieldset class="clearfix">
+                                <div>
+                                    <label>
+                                        <span class="fa fa-envelope"></span>
+                                        <input type="email" name="User" id="email" Placeholder="E-mail">
+                                    </label>
+                                    <label>
+                                        <span class="fa fa-lock"></span>
+                                        <input type="password" name="Pass" id="contrasena" Placeholder="Contraseña">
+                                    </label>
+                                </div>
+                                <div>
+                                    <span style="width:48%; text-align:left;  display: inline-block;">
+                                        <a class="small-text" style="color:white" onclick="location.href='@Url.Action("Registro", "Acceso")'">
+                                            ¿No tienes una cuenta? ¡Regístrate!
+                                        </a>
+                                    </span>
+                                    <span style="width:50%; text-align:right;  display: inline-block;">
+                                        <input type="submit" value="Entrar">
+                                    </span>
+                                </div>
+                            </fieldset>
+                            <div class="clearfix"></div>
+                        </form>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="logo">
+                        LOGO
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                @if (@Model.Mensaje != null)
+                {
+                    <div>@Model.Mensaje</div>
+                }
+            </center>
+        </div>
+    </div>
+</body>
+</html>
