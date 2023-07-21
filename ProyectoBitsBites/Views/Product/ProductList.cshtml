@@ -9,7 +9,138 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Gestión Productos</title>
-    
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th {
+            background-color: #117964;
+            color: #fff;
+            padding: 10px;
+            text-align: left;
+        }
+
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #e0e0e0;
+        }
+
+        .button-container {
+            margin-bottom: 20px;
+        }
+
+            .button-container button {
+                margin-right: 10px;
+                padding: 8px 16px;
+                background-color: #117964;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+                .button-container button:hover {
+                    background-color: #0d5941;
+                }
+
+        .add-button {
+            background-color: #117964;
+        }
+
+            .add-button:hover {
+                background-color: #0d5941;
+            }
+
+        .cart-icon {
+            position: relative;
+            display: inline-block;
+        }
+
+            .cart-icon::before {
+                content: attr(data-count);
+                position: absolute;
+                top: -10px;
+                right: -10px;
+                background-color: #f44336;
+                color: #fff;
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                font-size: 14px;
+                line-height: 20px;
+                text-align: center;
+            }
+
+        /* Estilos del NAV */
+        .navbar {
+            background-color: #117964;
+            color: #fff;
+            padding: 10px;
+        }
+
+            .navbar ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                display: flex;
+                justify-content: flex-end;
+            }
+
+            .navbar li {
+                display: inline-block;
+                margin-right: 20px;
+                margin-right: 0;
+                margin-left: 20px;
+            }
+
+                .navbar li a {
+                    color: #fff;
+                    text-decoration: none;
+                }
+
+                    .navbar li a:hover {
+                        color: #0d5941;
+                    }
+             .cart-count {
+                        position: absolute;
+                        top: -5px;
+                        right: -5px;
+                        background-color: #f44336;
+                        color: #fff;
+                        width: 20px;
+                        height: 20px;
+                        border-radius: 50%;
+                        font-size: 14px;
+                        line-height: 20px;
+                        text-align: center;
+                    }
+    </style>   
 </head>
 <body>
     <nav class="navbar">
