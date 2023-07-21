@@ -12,6 +12,7 @@ namespace ProyectoBitsBites.Controllers
 {
     public class ProductController : Controller
     {
+    
         // GET: Product cliente
         public ActionResult ProductHamburguesas(int id_categoria = 0)
         {
