@@ -60,7 +60,32 @@ namespace ProyectoBitsBites.Controllers
             }
             return RedirectToAction("Login", "Acceso");
         }
-        
+        //Administrador
+        public ActionResult ProductList()
+        {
+            if (Session["User"] != null && Session["rol"].Equals("administrador"))
+            {
+                List<ProductoTableViewModel> lst = null;
+                using (RestauranteBitsBitesEntities1 db = new RestauranteBitsBitesEntities1())
+                    {
+                        lst = (from d in db.Productos
+                               where d.estado.Equals("1")
+                               orderby d.nombre_producto
+                               select new ProductoTableViewModel
+                               {
+                                   ID = d.id_producto,
+                                   Nombre = d.nombre_producto,
+                                   Descripcion = d.descripcion,
+                                   Precio = d.precio,
+                                   Categoria = d.Categorias.nombre_categoria,
+                                   id_categoria = d.id_categoria,
+                                   Imagen = d.imagen
+                               }).ToList();
+                    }
+                return View(lst);
+            }
+            return RedirectToAction("Login", "Acceso", new { Msg = "Debe ingresar con una cuenta de adminitrador" });
+        }
         //Admin
         public ActionResult ProductForm(int id = 0)
         {
