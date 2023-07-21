@@ -20,7 +20,8 @@ namespace ProyectoBitsBites.Models
             this.Productos = new HashSet<Productos>();
         }
     
-
+        public int id_categoría { get; set; }
+        public string nombre_categoria { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Productos> Productos { get; set; }
