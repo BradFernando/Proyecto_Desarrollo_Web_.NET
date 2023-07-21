@@ -159,7 +159,14 @@ namespace ProyectoBitsBites.Controllers
                         producto.id_categoria = id_categoria;
                         producto.estado = "1";
                     }
-                
+                // Virificacion se ha guardado una imagen
+                if (imagen != null && imagen.ContentLength > 0)
+                {
+                    // Leer la imagen y la converte en un arreglo de bytes
+                    byte[] imageData = new byte[imagen.ContentLength];
+                    imagen.InputStream.Read(imageData, 0, imagen.ContentLength);
+                    producto.imagen = imageData;
+                }
                 if (ID == 0)
                 {
                     db.Productos.Add(producto);
