@@ -88,7 +88,7 @@ namespace ProyectoBitsBites.Controllers
                 usuario.rol = "cliente";
                 usuario.correo = Correo;
                 db.Usuarios.Add(usuario);
-
+                db.SaveChanges();
                 
             }
             return RedirectToAction("Login", "Acceso");
