@@ -9,6 +9,7 @@ using System.Web.Helpers;
 
 namespace ProyectoBitsBites.Controllers
 {
+// Controlador
     public class CarritoController : Controller
     {
         public static List<ProductoTableViewModel> carrito { get; set; }  = new List<ProductoTableViewModel>() ;
