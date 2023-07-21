@@ -10,7 +10,7 @@ namespace ProyectoBitsBites.Controllers
 {
     public class AccesoController : Controller
     {
-        // GET: Acceso
+        // GET: Acceso Controlador
         public ActionResult Login(string Msg=null)
         {
             return View(new MsgModel()
