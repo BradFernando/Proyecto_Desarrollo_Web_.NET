@@ -71,6 +71,7 @@ namespace ProyectoBitsBites.Controllers
         // Esta los lista para el caso del administrador aqui llamamos todos los productos 
         public ActionResult ProductList()
         {
+        
             // Aqui se debe validar que el usuario sea administrador y no cliente
             if (Session["User"] != null && Session["rol"].Equals("administrador"))
             {
