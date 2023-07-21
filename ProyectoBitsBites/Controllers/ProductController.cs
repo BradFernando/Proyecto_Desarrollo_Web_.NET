@@ -51,6 +51,7 @@ namespace ProyectoBitsBites.Controllers
                                orderby d.nombre_producto
                                select new ProductoTableViewModel
                                {
+                               
                                    ID = d.id_producto,
                                    Nombre = d.nombre_producto,
                                    Descripcion = d.descripcion,
