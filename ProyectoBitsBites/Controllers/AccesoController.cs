@@ -85,10 +85,8 @@ namespace ProyectoBitsBites.Controllers
                 var usuario = new Usuarios();
                 usuario.nombre_usuario = Usuario; 
                 usuario.clave = Contrasenia;
-                usuario.rol = "cliente";
-                usuario.correo = Correo;
-                db.Usuarios.Add(usuario);
-                db.SaveChanges();
+
+                
             }
             return RedirectToAction("Login", "Acceso");
         }
