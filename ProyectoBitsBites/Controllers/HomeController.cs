@@ -8,7 +8,7 @@ namespace ProyectoBitsBites.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
+        // GET: Home Home Edition
         public ActionResult Index()
         {
             return View();
