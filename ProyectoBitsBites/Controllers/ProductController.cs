@@ -13,7 +13,7 @@ namespace ProyectoBitsBites.Controllers
     public class ProductController : Controller
     {
     
-        // GET: Product cliente
+        // GET: Product cliente controlador
         public ActionResult ProductHamburguesas(int id_categoria = 0)
         {
             if (Session["User"] != null && Session["rol"].Equals("cliente"))
