@@ -1,4 +1,4 @@
-﻿using ProyectoBitsBites.Models;
+using ProyectoBitsBites.Models;
 using ProyectoBitsBites.Models.TableViewModel;
 using System;
 using System.Collections.Generic;
@@ -12,13 +12,17 @@ namespace ProyectoBitsBites.Controllers
 {
     public class ProductController : Controller
     {
-    
-        // GET: Product cliente controlador cliente
+        // GET: Product cliente
+        //Cliente
+        //Esta funcion lista todos los productos por su categoria y los muestra en la vista ProductHamburguesas
         public ActionResult ProductHamburguesas(int id_categoria = 0)
         {
+            // Aqui se debe validar que el usuario sea cliente y no administrador
             if (Session["User"] != null && Session["rol"].Equals("cliente"))
             {
+                // Llama al metodo para listar los productos de la categoria hamburguesas
                 List<ProductoTableViewModel> lst = null;
+                // Si el id_categoria es cero, se listan todos los productos de la base de datos
                 if (id_categoria == 0)
                 {
                     using (RestauranteBitsBitesEntities1 db = new RestauranteBitsBitesEntities1())
@@ -39,6 +43,7 @@ namespace ProyectoBitsBites.Controllers
                 }
                 else
                 {
+                    // Si no es cero, se filtra por la categoria seleccionada en el menu de navegacion
                     using (RestauranteBitsBitesEntities1 db = new RestauranteBitsBitesEntities1())
                     {
                         lst = (from d in db.Productos
@@ -58,11 +63,14 @@ namespace ProyectoBitsBites.Controllers
                 }
                 return View(lst);
             }
+            // Si no es cliente, se redirecciona al login con un mensaje de error
             return RedirectToAction("Login", "Acceso");
         }
         //Administrador
+        // Esta los lista para el caso del administrador aqui llamamos todos los productos 
         public ActionResult ProductList()
         {
+            // Aqui se debe validar que el usuario sea administrador y no cliente
             if (Session["User"] != null && Session["rol"].Equals("administrador"))
             {
                 List<ProductoTableViewModel> lst = null;
@@ -84,11 +92,14 @@ namespace ProyectoBitsBites.Controllers
                     }
                 return View(lst);
             }
+            // Si no es administrador, se redirecciona al login con un mensaje de error 
             return RedirectToAction("Login", "Acceso", new { Msg = "Debe ingresar con una cuenta de adminitrador" });
         }
         //Admin
+        // Esta funcion retorna la vista para crear un nuevo producto o editar uno existente
         public ActionResult ProductForm(int id = 0)
         {
+            // Si el id es cero, se esta creando un nuevo producto y se retorna la vista vacia
             ProductoTableViewModel producto = new ProductoTableViewModel();
             if (id != 0)
             {
@@ -137,6 +148,8 @@ namespace ProyectoBitsBites.Controllers
 
         //ADmin editando guardando
         [HttpPost]
+
+        // En este metodo se guardan los datos del producto en la base de datos y se guarda la imagen en la carpeta correspondiente
         public ActionResult AddProduct(int ID, string Nombre, string Descripcion, decimal Precio, int id_categoria, HttpPostedFileBase imagen)
         {
             using (RestauranteBitsBitesEntities1 db = new RestauranteBitsBitesEntities1())
@@ -159,10 +172,10 @@ namespace ProyectoBitsBites.Controllers
                         producto.id_categoria = id_categoria;
                         producto.estado = "1";
                     }
-                // Virificacion se ha guardado una imagen
+                // Verificar si se ha cargado una imagen
                 if (imagen != null && imagen.ContentLength > 0)
                 {
-                    // Leer la imagen y la converte en un arreglo de bytes
+                    // Leer el archivo de imagen y convertirlo en un arreglo de bytes
                     byte[] imageData = new byte[imagen.ContentLength];
                     imagen.InputStream.Read(imageData, 0, imagen.ContentLength);
                     producto.imagen = imageData;
