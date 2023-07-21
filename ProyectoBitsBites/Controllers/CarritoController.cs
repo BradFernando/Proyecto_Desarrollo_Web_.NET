@@ -85,7 +85,24 @@ namespace ProyectoBitsBites.Controllers
             }
         }
 
-        
+        //Se elimina un poducto del carrito
+        public ActionResult EliminarProducto(int id)
+        {
+            for (int i = 0; i < carrito.Count; i++)
+            {
+                if (carrito[i].ID == id)
+                {
+                    if (carrito[i].cantidad == 1)
+                    {
+                        carrito.Remove(carrito[i]);
+                    } else
+                    {
+                        carrito[i].cantidad--;
+                    }
+                }
+            }
+            return RedirectToAction("CarritoList", "Carrito");
+        }
 
         public ActionResult SumarProducto(int id)
         {
